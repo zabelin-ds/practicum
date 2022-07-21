@@ -1,2 +1,9 @@
 /.idea/*
 */.ipynb_checkpoints/*
+.gitignore
+
+*.idea
+*.zip
+*.DS_Store
+*.ipynb_checkpoints
+/03_project/api_key.py
