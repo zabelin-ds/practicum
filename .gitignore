@@ -7,3 +7,11 @@
 *.DS_Store
 *.ipynb_checkpoints
 /03_project/api_key.py
+/03_project/03_project_comments.txt
+
+/04_project/04_project_comments.txt
+/04_project/04_project_replay.txt
+
+jupyter/*
+note/*
+
